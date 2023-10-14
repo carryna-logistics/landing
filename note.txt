@@ -1,0 +1,6 @@
+Rides       ----------- Dispatching
+Delivery        ------- Errands
+Groceries       ------- Re-Locating
+Car-sharing     ------- Same-day
+Mocromobility       --- Food
+Business        ------- Payment-on-Delivery
