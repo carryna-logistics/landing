@@ -16,7 +16,7 @@
       100% { opacity: 1; transform: translateY(0px); }
     }
     .stress-small { font-family: "Cormorant Garamond", serif; font-style: italic; font-size: 16px; color: rgba(255, 220, 200, 0.9); letter-spacing: 1px; margin-bottom: 4px; }
-    .stress-big { font-family: "Playfair Display", serif; font-size: 52px; font-weight: 900; color: rgba(29, 29, 29, 0.8); line-height: 1; position: relative; display: inline-block; }
+    .stress-big { font-family: "Playfair Display", serif; font-size: 52px; font-weight: 900; color: rgba(1, 0, 0, 0.8); line-height: 1; position: relative; display: inline-block; }
     .stress-big span { color: rgb(255, 255, 255); }
     .stress-big::after { content: ""; position: absolute; bottom: 4px; left: 0px; right: 0px; height: 3px; background: linear-gradient(90deg, transparent, rgb(255, 255, 255), transparent); }
     .divider { display: flex; align-items: center; gap: 12px; margin: 22px 0px; }
