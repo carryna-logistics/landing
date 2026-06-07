@@ -1,5 +1,5 @@
 *, ::before, ::after { box-sizing: border-box; margin: 0px; padding: 0px; }
-    body { background: rgb(141, 26, 29); display: flex; justify-content: center; align-items: center; min-height: 100vh; font-family: "DM Sans", sans-serif; }
+    body { background: rgba(229, 0, 0, 0.8); display: flex; justify-content: center; align-items: center; min-height: 100vh; font-family: "DM Sans", sans-serif; }
     .flyer { width: 1024px; min-height: 700px; border-radius: 4px; position: relative; overflow: hidden; animation: 1s ease 0s 1 normal forwards running fadeIn; }
     @keyframes fadeIn { 
       0% { opacity: 0; transform: translateY(30px); }
